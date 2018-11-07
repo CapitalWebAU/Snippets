@@ -1,0 +1,34 @@
+<!-- Two one-half columns -->
+<div class="one-half first">Content goes here.</div>
+<div class="one-half">Content goes here.</div>
+<div class="clearfix"></div>
+
+<!-- Three one-third columns. -->
+<div class="one-third first">Content goes here.</div>
+<div class="one-third">Content goes here.</div>
+<div class="one-third">Content goes here.</div>
+<div class="clearfix"></div>
+
+<!-- One-third, two-thirds -->
+<div class="one-third first">Content goes here.</div>
+<div class="two-thirds">Content goes here.</div>
+<div class="clearfix"></div>
+
+<!-- Four one-fourth columns. -->
+<div class="one-fourth first">Content goes here.</div>
+<div class="one-fourth">Content goes here.</div>
+<div class="one-fourth">Content goes here.</div>
+<div class="one-fourth">Content goes here.</div>
+<div class="clearfix"></div>
+
+<!-- One-fourth, three-fourths. -->
+<div class="one-fourth first">Content goes here.</div>
+<div class="three-fourths">Content goes here.</div>
+<div class="clearfix"></div>
+
+<!-- Three narrow columns and one wide column. -->
+<div class="one-sixth first">Content goes here.</div>
+<div class="one-sixth">Content goes here.</div>
+<div class="one-sixth">Content goes here.</div>
+<div class="three-sixths">Content goes here.</div>
+<div class="clearfix"></div>
