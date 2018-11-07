@@ -1,0 +1,40 @@
+
+
+<div style="border: 1px dotted #333333; padding: 15px 15px 0px 15px; text-align: center;">
+<h2>New arrivals in the shop</h2>
+
+[recent_products per_page="3" columns="3" orderby="date" order="DSC"]
+</div>
+
+
+-------------------------------------------
+
+advert 
+
+<div style="border: 1px dotted #333333;padding: 15px 15px 0px 15px;text-align: center">
+<p style="text-align: right"><em>Advert</em></p>
+<h2>New arrivals in the shop</h2>
+[recent_products per_page="3" columns="3" orderby="date" order="ASC"]
+</div>
+
+
+
+
+-------------------------------
+
+<div style="border: 1px dotted #333333;padding: 15px 15px 1px 15px;text-align: center">
+<h2>New arrivals in the shop</h2>
+[recent_products per_page="3" columns="3" orderby="date" order="ASC"]
+</div>
+
+
+
+sales 
+
+<h4 style="text-align: center"><em><span style="color: #800000">Old collection items are now up to 50% reduced - Buy now!</span></em></h4>
+<div style="padding: 15px 15px 0px 15px;text-align: center">
+[sale_products per_page="3" columns="3"]
+</div>
+<p style="text-align: center">The last remaining items from the winter collection are now available at extra special prices. Hurry! Offer ends March 15!</p>
+
+
